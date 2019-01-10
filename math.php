@@ -50,3 +50,4 @@ echo $number1 * $number2;
 ?>
 
 </body>
+</html>
